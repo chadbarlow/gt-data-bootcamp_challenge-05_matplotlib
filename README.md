@@ -10,8 +10,8 @@
 - Numpy
 
 ## Features
-* Bar, pie, scatter, and box plots
-* Correlation and regression analysis
+- Bar, pie, scatter, and box plots
+- Correlation and regression analysis
 
 ## Conclusions
 The analysis shows the effectiveness of the drug regimens in reducing tumor volume, their potential outliers, and the distribution of the final tumor volume for each treatment group. It also presents the relationship between mouse weight and average observed tumor volume for the Capomulin treatment regimen.
@@ -22,6 +22,6 @@ The analysis shows the effectiveness of the drug regimens in reducing tumor volu
 - The analysis focuses only on tumor volume reduction and does not consider other factors that may affect treatment success.
 
 ## Further Analysis
-1. Analyze additional studies to validate the findings.
-2. Investigate the impact of other factors, such as age, weight, and genetic background, on the effectiveness of each treatment regimen.
-3. Conduct a time-series analysis to assess the long-term effectiveness of the drug regimens.
+- Analyze additional studies to validate the findings.
+- Investigate the impact of other factors, such as age, weight, and genetic background, on the effectiveness of each treatment regimen.
+- Conduct a time-series analysis to assess the long-term effectiveness of the drug regimens.
