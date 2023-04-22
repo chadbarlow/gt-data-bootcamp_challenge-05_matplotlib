@@ -5,8 +5,9 @@
 
 ## Data Science Tools
 - Python
-- Pandas
+- pandas
 - Matplotlib
+- Numpy
 
 ## Features
 * Bar, pie, scatter, and box plots
